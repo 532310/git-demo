@@ -10,4 +10,5 @@ hello,not function
 hello,not function
 hello,not function
 hello,not function aaa test
+hello,not function aaa test2
 
