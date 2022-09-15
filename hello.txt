@@ -1,8 +1,4 @@
 heloo
-<<<<<<< HEAD
-hello,not function
-=======
->>>>>>> main
 hello,not function
 hello,not function
 hello,not function
@@ -12,14 +8,11 @@ hello,not function
 hello,not function
 hello,not function
 hello,not function
-<<<<<<< HEAD
+hello,not function
 hello,not function aaa test
 hello,not function aaa 
 hello,not function aaa 1111 
 hello,not function aaa 2222  
 hello,not function aaa 2222  
-=======
 hello,not function
-hello,not function aaa test
-
->>>>>>> main
+hello,not function aaa 3333:
